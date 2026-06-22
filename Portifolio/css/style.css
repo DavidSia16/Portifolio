@@ -1,0 +1,44 @@
+
+body{
+background:#0f172a;
+color:#f8fafc;
+font-family:"Lucida Console", "Courier New", monospace;
+}
+.hero{
+min-height:100vh;
+}
+ 
+.hero h1{
+font-size:5rem;
+font-weight:900;
+}
+.hero img {
+margin: 8%;
+width: 25em;
+border-radius: 200px;
+border-image: linear-gradient(45deg, #0f172a, #f8fafc) 1;
+box-shadow: 0 0 20px #f8fafc;
+}
+.tag{
+color:#7db5ff;
+letter-spacing:4px;
+}
+.btn-custom{
+background:#7db5ff;
+}
+.section-title{
+margin-bottom:30px;
+}
+.tech,.project-card{
+background:#1e293b;
+padding:25px;
+border-radius:15px;
+margin-bottom:20px;
+transition:.3s;
+}
+.tech:hover,.project-card:hover{
+transform:translateY(-10px);
+transition: filter 0.3s ease, box-shadow 0.3s ease;
+box-shadow: 0 0 25px #f8fafc;
+}
+a{color:#7db5ff;}
