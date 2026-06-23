@@ -138,9 +138,7 @@ Meu objetivo é construir uma carreira sólida como Desenvolvedor de Software, c
 
 GitHub: https://github.com/DavidSia16
 
-LinkedIn: (adicione seu LinkedIn aqui)
 
 Instagram: @[davidalves_17](https://www.instagram.com/davidalves_17/#)
 
-\
 
